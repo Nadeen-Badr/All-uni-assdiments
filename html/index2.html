@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="descripion" content="this is the update page"/>
+        <title> Updating page </title>
+    </head>
+    <body>
+        <h1>Update an employee's data</h1>
+        <div>
+            <label for="name">Employee's Name</label>
+            <input id="name" type="text" readonly>
+        </div>
+        <br>
+        <div>
+            <label for="id">Employee's ID</label>
+            <input id="id" type="number" min="1" max="10" readonly>
+        </div>
+        <br>
+        <div>
+            <label for="email">Employee's Email</label>
+            <input id="email" type="email" required placeholder="Write a valid email">
+        </div>
+        <br>
+        <div>
+            <label for="address">Employee's Address</label>
+            <input id="address" type="text" required placeholder="Write your address">
+        </div>
+        <br>
+        <div>
+            <label for="phone num">Employee's Phone number</label>
+            <input id="phone num" type="text" required placeholder="Write Phone number" min="11" max="11">
+        </div>
+        <br>
+        <div>
+            
+            <label>Employee Gender</label><br>
+            <input type="radio" name="gender" value="male"> Male<br>
+            <input type="radio" name="gender" value="female"> Female<br>
+            <input type="radio" name="gender" value="other"> Other
+        </div>
+        <br>
+        <div>
+            <label>Employee's Marital status</label>
+             <br>
+        
+            <select name="marital_status" id="marital_status">
+                <option value="">Select Marital Status</option>
+                <option value="Single">Single</option>
+                <option value="Married">Married</option>
+                <option value="Widowed">Widowed</option>
+                <option value="Separated">Separated</option>
+                <option value="Divorced">Divorced</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="vac num">Employee's Vacation days </label>
+            <input id="vac num" type="number"  min="1" max="3">
+        </div>
+        <br>
+        <div>
+            <label for="ap vac num">Employee's Approved Vacation days </label>
+            <input id="ap vac num" type="number"  min="1" max="3">
+        </div>
+        <br>
+        
+        <div>
+            <label for="sal">Employee's Salary </label>
+            <input id="sal" type="number" >
+        </div>
+        <br>
+        <div>
+            <label for="date">Employee's Birth Date:</label>
+
+             <input type="date" id="date">
+        </div>
+
+        
+
+        <br>
+        <input type="submit" value="Update">
+
+
+
+    </body>
+</html>
