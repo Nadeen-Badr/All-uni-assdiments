@@ -1,0 +1,67 @@
+This class implements a basic decision tree classifier. Here's a breakdown of its key methods and functionality:
+
+__init__(self, max_depth=3):
+Initializes the DecisionTree object with an optional parameter max_depth, which specifies the maximum depth of the tree. Default is 3.
+self.tree is initialized as None, which will hold the decision tree structure.
+fit(self, X, y, depth=0):
+Calls build_tree to construct the decision tree using the provided training data X and labels y.
+predict(self, X):
+Predicts the labels for the input data X by traversing the decision tree for each instance in X.
+Uses the predict_instance method to recursively traverse the tree and return the predicted label.
+predict_instance(self, instance, tree):
+Recursively traverses the decision tree to predict the label for a single instance instance.
+If tree is a dictionary, it retrieves the attribute and its corresponding subtree and continues traversal.
+If tree is a leaf node (a class label), it returns the label.
+build_tree(self, X, y, depth):
+Recursively builds the decision tree based on the input data X and labels y.
+Stops building the tree if all labels in y are the same or if the maximum depth is reached.
+Finds the best feature to split on using the find_best_split method.
+Returns a subtree dictionary representing the decision tree structure.
+find_best_split(self, X, y):
+Finds the best feature to split on based on the information gain.
+Iterates over each feature and calculates the information gain.
+Returns the best feature and its corresponding split.
+calculate_info_gain(self, feature, y):
+Calculates the information gain for a given feature and labels.
+Uses the entropy of the feature and the total entropy to calculate the information gain.
+calculate_entropy(self, data):
+Calculates the entropy of a given dataset.
+Uses the formula for entropy: 
+𝑒
+𝑛
+𝑡
+𝑟
+𝑜
+𝑝
+𝑦
+=
+−
+∑
+𝑖
+=
+1
+𝑛
+𝑝
+(
+𝑖
+)
+∗
+𝑙
+𝑜
+𝑔
+2
+(
+𝑝
+(
+𝑖
+)
+)
+entropy=−∑ 
+i=1
+n
+​
+ p(i)∗log 
+2
+​
+ (p(i))
+Where p(i) is the probability of occurrence of class i in the dataset.

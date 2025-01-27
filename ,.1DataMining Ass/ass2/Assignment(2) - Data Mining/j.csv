@@ -1,0 +1,104 @@
+Movie Name,Release Year,Duration,IMDB Rating,Metascore,Votes,Genre,Director,Cast,Gross
+The Godfather,1972,175,9.2,100.0,"2,002,655","Crime, Drama",Francis Ford Coppola,Marlon Brando,$134.97M
+The Godfather Part II,1974,202,9.0,90.0,"1,358,608","Crime, Drama",Francis Ford Coppola,Al Pacino,$57.30M
+Ordinary People,1980,124,7.7,86.0,"56,476",Drama,Robert Redford,Donald Sutherland,$54.80M
+Lawrence of Arabia,1962,218,8.3,100.0,"313,044","Adventure, Biography, Drama",David Lean,Peter O'Toole,$44.82M
+Straw Dogs,1971,113,7.4,73.0,"64,331","Crime, Drama, Thriller",Sam Peckinpah,Dustin Hoffman,NA
+Close Encounters of the Third Kind,1977,138,7.6,90.0,"216,050","Drama, Sci-Fi",Steven Spielberg,Richard Dreyfuss,$132.09M
+Once Upon a Time in the West,1968,166,8.5,82.0,"348,110",Western,Sergio Leone,Henry Fonda,$5.32M
+The Dirty Dozen,1967,150,7.7,73.0,"78,858","Action, Adventure, War",Robert Aldrich,Lee Marvin,$45.30M
+Rosemary's Baby,1968,137,8.0,96.0,"234,034","Drama, Horror",Roman Polanski,Mia Farrow,NA
+Cabaret,1972,124,7.8,80.0,"59,119","Drama, Music, Musical",Bob Fosse,Liza Minnelli,$42.77M
+Psycho,1960,109,8.5,97.0,"715,718","Horror, Mystery, Thriller",Alfred Hitchcock,Anthony Perkins,$32.00M
+Rebecca,1940,130,8.1,86.0,"146,211","Drama, Mystery, Romance",Alfred Hitchcock,Laurence Olivier,$4.36M
+Notorious,1946,102,7.9,100.0,"106,938","Drama, Film-Noir, Romance",Alfred Hitchcock,Cary Grant,$10.46M
+The Bridge on the River Kwai,1957,161,8.1,88.0,"232,645","Adventure, Drama, War",David Lean,William Holden,$44.91M
+Doctor Zhivago,1965,197,7.9,69.0,"81,820","Drama, Romance, War",David Lean,Omar Sharif,$111.72M
+"Il buono, il brutto, il cattivo",1966,161,8.8,90.0,"808,059","Adventure, Western",Sergio Leone,Clint Eastwood,$6.10M
+Roman Holiday,1953,118,8.0,78.0,"147,146","Comedy, Romance",William Wyler,Gregory Peck,NA
+Rope,1948,80,7.9,73.0,"153,077","Crime, Drama, Mystery",Alfred Hitchcock,James Stewart,NA
+Charade,1963,113,7.8,83.0,"85,196","Comedy, Mystery, Romance",Stanley Donen,Cary Grant,$13.47M
+The Conversation,1974,113,7.7,87.0,"121,187","Drama, Mystery, Thriller",Francis Ford Coppola,Gene Hackman,$4.42M
+Vertigo,1958,128,8.3,100.0,"425,385","Mystery, Romance, Thriller",Alfred Hitchcock,James Stewart,$3.20M
+The Blue Lagoon,1980,104,5.8,31.0,"76,217","Adventure, Drama, Romance",Randal Kleiser,Brooke Shields,$58.85M
+Marnie,1964,130,7.1,73.0,"53,670","Crime, Drama, Mystery",Alfred Hitchcock,Tippi Hedren,$7.00M
+Deliverance,1972,109,7.7,80.0,"118,842","Adventure, Drama, Thriller",John Boorman,Jon Voight,$7.06M
+Saturday Night Fever,1977,118,6.8,77.0,"87,091","Drama, Music",John Badham,John Travolta,$94.21M
+Friday the 13th,1980,95,6.4,22.0,"156,829","Horror, Mystery, Thriller",Sean S. Cunningham,Betsy Palmer,$39.75M
+Dog Day Afternoon,1975,125,8.0,86.0,"272,254","Biography, Crime, Drama",Sidney Lumet,Al Pacino,$50.00M
+Rear Window,1954,112,8.5,100.0,"520,357","Mystery, Thriller",Alfred Hitchcock,James Stewart,$36.76M
+Fahrenheit 451,1966,112,7.2,,"45,330","Drama, Sci-Fi",François Truffaut,Oskar Werner,NA
+"It's a Mad, Mad, Mad, Mad World",1963,210,7.5,59.0,"45,881","Action, Adventure, Comedy",Stanley Kramer,Spencer Tracy,$46.30M
+My Fair Lady,1964,170,7.7,95.0,"101,519","Drama, Family, Musical",George Cukor,Audrey Hepburn,$72.00M
+Alien,1979,117,8.5,89.0,"945,866","Horror, Sci-Fi",Ridley Scott,Sigourney Weaver,$78.90M
+Star Wars,1977,121,8.6,90.0,"1,444,539","Action, Adventure, Fantasy",George Lucas,Mark Hamill,$322.74M
+Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,82.0,"1,374,400","Action, Adventure, Fantasy",Irvin Kershner,Mark Hamill,$290.48M
+Carrie,1976,98,7.4,86.0,"205,836","Horror, Mystery",Brian De Palma,Sissy Spacek,$33.80M
+The Hustler,1961,134,8.0,90.0,"86,587","Drama, Sport",Robert Rossen,Paul Newman,$8.28M
+12 Angry Men,1957,96,9.0,97.0,"860,130","Crime, Drama",Sidney Lumet,Henry Fonda,$4.36M
+Citizen Kane,1941,119,8.3,100.0,"464,602","Drama, Mystery",Orson Welles,Orson Welles,$1.59M
+The Third Man,1949,104,8.1,97.0,"181,240","Film-Noir, Mystery, Thriller",Carol Reed,Orson Welles,$0.45M
+Oliver!,1968,153,7.4,74.0,"41,277","Drama, Family, Musical",Carol Reed,Mark Lester,$16.80M
+Apocalypse Now,1979,147,8.4,94.0,"707,267","Drama, Mystery, War",Francis Ford Coppola,Martin Sheen,$83.47M
+Dial M for Murder,1954,105,8.2,75.0,"188,119","Crime, Thriller",Alfred Hitchcock,Ray Milland,$0.01M
+It's a Wonderful Life,1946,130,8.6,89.0,"497,634","Drama, Family, Fantasy",Frank Capra,James Stewart,NA
+To Kill a Mockingbird,1962,129,8.3,88.0,"331,928","Crime, Drama",Robert Mulligan,Gregory Peck,NA
+All About Eve,1950,138,8.2,98.0,"138,377",Drama,Joseph L. Mankiewicz,Bette Davis,$0.01M
+The Ten Commandments,1956,220,7.9,,"76,691","Adventure, Drama, Family",Cecil B. DeMille,Charlton Heston,$93.74M
+Touch of Evil,1958,95,8.0,99.0,"109,503","Crime, Drama, Film-Noir",Orson Welles,Charlton Heston,$2.24M
+Blazing Saddles,1974,93,7.7,73.0,"151,809","Comedy, Western",Mel Brooks,Cleavon Little,$119.50M
+Blow-Up,1966,111,7.4,82.0,"67,421","Drama, Mystery, Thriller",Michelangelo Antonioni,David Hemmings,NA
+The Spy Who Loved Me,1977,125,7.0,55.0,"115,921","Action, Adventure, Thriller",Lewis Gilbert,Roger Moore,$46.80M
+Jaws,1975,124,8.1,87.0,"656,761","Adventure, Mystery, Thriller",Steven Spielberg,Roy Scheider,$260.00M
+The French Connection,1971,104,7.7,94.0,"135,004","Action, Crime, Drama",William Friedkin,Gene Hackman,$15.63M
+The Exorcist,1973,122,8.1,83.0,"452,972",Horror,William Friedkin,Ellen Burstyn,$232.91M
+Who's Afraid of Virginia Woolf?,1966,131,8.0,75.0,"79,672",Drama,Mike Nichols,Elizabeth Taylor,NA
+Giant,1956,201,7.6,84.0,"42,085","Drama, Western",George Stevens,Elizabeth Taylor,NA
+Das Boot,1981,149,8.4,85.0,"263,525","Drama, War",Wolfgang Petersen,Jürgen Prochnow,$11.49M
+8½,1963,138,8.0,93.0,"124,834",Drama,Federico Fellini,Marcello Mastroianni,$0.05M
+La dolce vita,1960,174,8.0,95.0,"77,951","Comedy, Drama",Federico Fellini,Marcello Mastroianni,$19.52M
+Rocky,1976,120,8.1,70.0,"625,924","Drama, Sport",John G. Avildsen,Sylvester Stallone,$117.24M
+Annie Hall,1977,93,8.0,92.0,"277,594","Comedy, Romance",Woody Allen,Woody Allen,$39.20M
+Serpico,1973,130,7.7,83.0,"134,207","Biography, Crime, Drama",Sidney Lumet,Al Pacino,$29.80M
+Dr. No,1962,110,7.2,78.0,"178,878","Action, Adventure, Thriller",Terence Young,Sean Connery,$16.07M
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,8.4,97.0,"516,382","Comedy, War",Stanley Kubrick,Peter Sellers,$0.28M
+Patton,1970,172,7.9,86.0,"107,677","Biography, Drama, War",Franklin J. Schaffner,George C. Scott,$61.70M
+Monty Python and the Holy Grail,1975,91,8.2,91.0,"568,591","Adventure, Comedy, Fantasy",Terry Gilliam,Terry Jones,$1.23M
+Life of Brian,1979,94,8.0,77.0,"420,936",Comedy,Terry Jones,Graham Chapman,$20.05M
+The Parent Trap,1961,129,7.2,73.0,"23,869","Comedy, Family, Romance",David Swift,Hayley Mills,NA
+The Blues Brothers,1980,133,7.9,60.0,"213,702","Action, Adventure, Comedy",John Landis,John Belushi,$57.23M
+Young Frankenstein,1974,106,8.0,83.0,"168,404",Comedy,Mel Brooks,Gene Wilder,$86.30M
+The Great Escape,1963,172,8.2,86.0,"258,019","Adventure, Drama, Thriller",John Sturges,Steve McQueen,$12.10M
+Bullitt,1968,114,7.4,81.0,"75,535","Action, Crime, Thriller",Peter Yates,Steve McQueen,$42.30M
+The Man from U.N.C.L.E.,1964–1968,50,7.7,,"6,227","Action, Adventure, Crime",Robert Vaughn,David McCallum,NA
+Live and Let Die,1973,121,6.7,55.0,"115,093","Action, Adventure, Thriller",Guy Hamilton,Roger Moore,$35.38M
+Raiders of the Lost Ark,1981,115,8.4,86.0,"1,033,883","Action, Adventure",Steven Spielberg,Harrison Ford,$248.16M
+The Wizard of Oz,1939,102,8.1,92.0,"427,106","Adventure, Family, Fantasy",Victor Fleming,King Vidor,$2.08M
+Lolita,1962,153,7.5,79.0,"108,444","Crime, Drama, Romance",Stanley Kubrick,James Mason,$9.25M
+From Here to Eternity,1953,118,7.6,85.0,"50,657","Drama, Romance, War",Fred Zinnemann,Burt Lancaster,$30.50M
+Mr. Smith Goes to Washington,1939,129,8.1,73.0,"121,085","Comedy, Drama",Frank Capra,James Stewart,$9.60M
+West Side Story,1961,153,7.6,86.0,"120,824","Crime, Drama, Musical",Jerome Robbins,Robert Wise,$43.66M
+Rebel Without a Cause,1955,111,7.6,89.0,"97,615",Drama,Nicholas Ray,James Dean,NA
+Mildred Pierce,1945,111,7.9,88.0,"28,512","Crime, Drama, Film-Noir",Michael Curtiz,Joan Crawford,NA
+Cat on a Hot Tin Roof,1958,108,7.9,84.0,"53,257",Drama,Richard Brooks,Elizabeth Taylor,$17.57M
+Halloween,1978,91,7.7,90.0,"305,684","Horror, Thriller",John Carpenter,Donald Pleasence,$47.00M
+The Magnificent Seven,1960,128,7.7,74.0,"102,205","Action, Adventure, Drama",John Sturges,Yul Brynner,$4.91M
+The Sound of Music,1965,172,8.1,63.0,"259,632","Biography, Drama, Family",Robert Wise,Julie Andrews,$163.21M
+On the Waterfront,1954,108,8.1,91.0,"164,105","Crime, Drama, Thriller",Elia Kazan,Marlon Brando,$9.60M
+The Birds,1963,119,7.6,90.0,"203,800","Drama, Horror, Mystery",Alfred Hitchcock,Rod Taylor,$11.40M
+One Hundred and One Dalmatians,1961,79,7.3,83.0,"181,498","Animation, Adventure, Comedy",Clyde Geronimi,Hamilton Luske,$144.88M
+The Apartment,1960,125,8.3,94.0,"195,905","Comedy, Drama, Romance",Billy Wilder,Jack Lemmon,$18.60M
+Some Like It Hot,1959,121,8.2,98.0,"282,633","Comedy, Music, Romance",Billy Wilder,Marilyn Monroe,$25.00M
+Fate Is the Hunter,1964,106,6.8,,"1,883","Drama, Mystery, Thriller",Ralph Nelson,Glenn Ford,NA
+Superman,1978,143,7.4,82.0,"186,918","Action, Adventure, Sci-Fi",Richard Donner,Christopher Reeve,$134.22M
+MASH,1970,116,7.4,80.0,"76,703","Comedy, Drama, War",Robert Altman,Donald Sutherland,$81.60M
+The Jerk,1979,94,7.1,61.0,"63,899",Comedy,Carl Reiner,Steve Martin,$73.69M
+Spartacus,1960,197,7.9,87.0,"142,708","Adventure, Biography, Drama",Stanley Kubrick,Anthony Mann,$30.00M
+The Shining,1980,146,8.4,68.0,"1,101,695","Drama, Horror",Stanley Kubrick,Jack Nicholson,$44.02M
+Manhattan,1979,96,7.8,83.0,"146,822","Comedy, Drama, Romance",Woody Allen,Woody Allen,$45.70M
+A Clockwork Orange,1971,136,8.3,77.0,"878,483","Crime, Sci-Fi",Stanley Kubrick,Malcolm McDowell,$6.21M
+Barry Lyndon,1975,185,8.1,89.0,"182,305","Adventure, Drama, War",Stanley Kubrick,Ryan O'Neal,NA
+The Searchers,1956,119,7.8,94.0,"95,880","Adventure, Drama, Western",John Ford,John Wayne,NA
+Airplane!,1980,88,7.7,78.0,"259,825",Comedy,Jim Abrahams,David Zucker,$83.40M
+Double Indemnity,1944,107,8.3,95.0,"166,862","Crime, Drama, Film-Noir",Billy Wilder,Fred MacMurray,$5.72M
+The Elephant Man,1980,124,8.2,78.0,"257,543","Biography, Drama",David Lynch,Anthony Hopkins,NA
